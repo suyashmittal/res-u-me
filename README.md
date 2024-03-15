@@ -1,5 +1,5 @@
 # res-u-me
-[Live Website](suyashmittal.github.io/res-u-me/)
+[Live Website](https://suyashmittal.github.io/res-u-me/)
 
 **res-u-me** helps professionals by providing them job opportunities from trusted sources (like LinkedIn) that match the skills and abilities in their resume.
 All the user has to do is upload their resume in a pdf or docx file and they are shown a list of possible jobs that they may apply to, along with other relevant information.
